@@ -1,0 +1,34 @@
+font-family: 'Carter One', cursive;
+
+.title {
+	font-family: helvetica;
+	font-style: bold;
+	color: #6690e2;
+	text-align: center;
+}
+
+.subtitle {
+	font-family: helvetica, sans-serif;
+	color: #1fcc69;
+	font-style: bold;
+	font-size: 16px;
+	text-align: center;
+}
+
+.align {
+	display: inline-block;
+}
+
+.jumbotron {
+	height: 600px;
+}
+
+.row-footer {
+	background-color: #222;
+}
+
+.clickable {
+	text-decoration: none;
+
+}
+
